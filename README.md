@@ -1,3 +1,16 @@
-# flutter_application_random_words
-This was a Flutter demo I went through to introduce myself to flutter and a little bit of Dart. I just generates random word pairs. Here is the demo I followed:
-https://www.youtube.com/watch?v=Z6KZ3cTGBWw&list=PLjxrf2q8roU3wk7CDw4RfV3mEwOJbjx1k&index=5
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
